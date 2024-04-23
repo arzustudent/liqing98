@@ -1,7 +1,10 @@
 # Hi there! 👋 I'm Johnny
 🎓 I'm a high school student
+
 💻 I'm interested in desktop and web development
+
 🧠 ...not convinced AI is as amazing as everyone says
+
 🌱 I want to spend more time outside, but the code keeps calling me
 
 ## Contact me
